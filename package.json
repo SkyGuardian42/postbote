@@ -1,0 +1,26 @@
+{
+  "name": "postbote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyGuardian42/postbote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyGuardian42/postbote/issues"
+  },
+  "homepage": "https://github.com/SkyGuardian42/postbote#readme",
+  "dependencies": {
+    "@vue/component-compiler-utils": "^2.2.0",
+    "vue": "^2.5.17",
+    "vue-hot-reload-api": "^2.3.0",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
