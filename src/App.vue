@@ -1,6 +1,12 @@
 <template>
   <div id="app">
-    <h1>{{ msg }}</h1>
+
+		<select name="method" v-model="method">
+			<option>Caesar</option>
+			<option>Vigenere</option>
+		</select>
+
+
   </div>
 </template>
 
@@ -15,8 +21,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="scss">
   #app {
-    color: #56b983;
   }
 </style>

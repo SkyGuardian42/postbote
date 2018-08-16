@@ -19,6 +19,9 @@
   "homepage": "https://github.com/SkyGuardian42/postbote#readme",
   "dependencies": {
     "@vue/component-compiler-utils": "^2.2.0",
+    "node-sass": "^4.9.3",
+    "parcel-bundler": "^1.9.7",
+    "reset-css": "^4.0.1",
     "vue": "^2.5.17",
     "vue-hot-reload-api": "^2.3.0",
     "vue-template-compiler": "^2.5.17"
