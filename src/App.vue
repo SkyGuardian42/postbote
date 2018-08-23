@@ -48,6 +48,8 @@ export default {
 <style lang="scss">
   #app {
     padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
   }
   .settings {
     display: flex;
