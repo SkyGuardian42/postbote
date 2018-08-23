@@ -1,4 +1,4 @@
-@import '~reset-css';
+//@import '../../node_modules/reset-css';
 
 * {
 	box-sizing: border-box;
@@ -7,4 +7,5 @@
 body {
 	background: #EEEEEE;
 	font-family: 'Space Mono', monospace;
+	margin: 0;
 }
